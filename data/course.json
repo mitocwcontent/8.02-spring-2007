@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ]
+  ],
+  "legacy_uid": "8d3bdda7-363b-3a4b-18d9-d5b7c4083899",
+  "instructors": {
+    "content": [
+      "de1a3f2c-6cec-7107-a00a-b69ca71460cd",
+      "3bdac84b-addd-b234-6d1a-2931048425c0",
+      "0c9482ae-2a3a-7776-7215-72fc1beac1d1",
+      "a987aa51-bf9c-0c7d-bbe9-2879829df022",
+      "3e8e5abe-b6a0-77a2-b1b8-e9c23872716d",
+      "ab4c246d-ac2e-379b-b7d3-0fbf45a6dfbd",
+      "0183f79d-a18b-9181-46a0-36ba6464ab1b",
+      "152013a8-f276-2ee6-ea2a-6ec25ff691f2",
+      "a32373bc-8c78-e37a-f79e-1f15686d1a9b",
+      "fb4108ab-0778-4fe6-1144-87ca06719123"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "80f23093-924b-68e9-4f4a-80034902a572",
+    "website": "8-02-physics-ii-electricity-and-magnetism-spring-2007"
+  },
+  "course_title": "Physics II: Electricity and Magnetism",
+  "course_description": "This freshman-level course is the second semester of introductory physics. The focus is on electricity and magnetism. The subject is taught using the TEAL (Technology Enabled Active Learning) format which utilizes small group interaction and current technology. The TEAL/Studio Project at MIT is a new approach to physics education designed to help students develop much better intuition about, and conceptual models of, physical phenomena.\n\n##### {{< anchor \"staff\" >}}{{< /anchor >}}Staff List\n\nVisualizations:  \nProf. John Belcher\n\nInstructors:  \nDr. Peter Dourmashkin  \nProf. Bruce Knuteson  \nProf. Gunther Roland  \nProf. Bolek Wyslouch  \nDr. Brian Wecht  \nProf. Eric Katsavounidis  \nProf. Robert Simcoe  \nProf. Joseph Formaggio\n\nCourse Co-Administrators:  \nDr. Peter Dourmashkin  \nProf. Robert Redwine\n\nTechnical Instructors:  \nAndy Neely  \nMatthew Strafuss\n\nCourse Material:  \nDr. Peter Dourmashkin  \nProf. Eric Hudson  \nDr. Sen-Ben Liao\n\n##### Acknowledgements\n\nThe TEAL project is supported by The [Alex and Brit d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/newsoffice/1999/darb-0310.html), [MIT iCampus](http://icampus.mit.edu/), the [Davis Educational Foundation](http://www.davisfoundations.org/site/educational.asp), the [National Science Foundation](http://www.nsf.gov/), the [Class of 1960 Endowment for Innovation in Education](http://1960.alumclass.mit.edu/s/1314/clubs-classes-interior.aspx?sid=1314&gid=51&pgid=2684), the [Class of 1951 Fund for Excellence in Education](http://web.mit.edu/acadinfo/alumnifunds/about.html), the [Class of 1955 Fund for Excellence in Teaching](http://web.mit.edu/acadinfo/alumnifunds/about.html), and the Helena Foundation. Many people have contributed to the development of the course materials. ([PDF](resources/acknowledgements))\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.02",
+  "course_image_thumbnail": {
+    "content": "1d6fc795-9e56-d74c-c188-57cf20ab13dd",
+    "website": "8-02-physics-ii-electricity-and-magnetism-spring-2007"
+  },
+  "learning_resource_types": [
+    "Simulations",
+    "Simulation Videos",
+    "Problem Sets",
+    "Lecture Notes",
+    "Online Textbook"
+  ],
+  "site_uid": "4f240be7-a2c8-4c58-97c9-b6682c78964c",
+  "title": "Course Metadata"
+}
